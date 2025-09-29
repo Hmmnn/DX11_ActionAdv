@@ -10,5 +10,5 @@
 - 개발 환경 : Visual Studio 2022, Git/Github
 - 사용 라이브러리 : DirectX 11, ImGui, PhysX, Assimp, FMod
 #### 시연 영상
-- 전체 결과물 : [https://youtu.be/rwTkUgP4ITA?si=uS-tJwyFQui7aW8j]
-- 개인 작업 부문 : [https://youtu.be/8dMc-XcDeoE]
+- [전체 결과물](https://youtu.be/rwTkUgP4ITA?si=uS-tJwyFQui7aW8j)
+- [개인 작업 부문](https://youtu.be/8dMc-XcDeoE)
